@@ -13,6 +13,6 @@ with(한동욱) {
         "solved.ac" = "https://solved.ac/profile/jja9312"
     }
     
-    Love = Coffe
+    Love = Coffee
     
 }
