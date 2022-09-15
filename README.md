@@ -13,6 +13,9 @@ with(한동욱) {
         Google: <jja9312345@gmail.com>
     }
     
+    [Naver Cafe][naverCafeLink]
+    [naverCafeLink]: https://cafe.naver.com/hdongwook?iframe_url=/MyCafeIntro.nhn%3Fclubid=30189250"
+    
     Websites {
         [Naver Cafe][naverCafeLink]
         [naverCafeLink]: https://cafe.naver.com/hdongwook?iframe_url=/MyCafeIntro.nhn%3Fclubid=30189250"
