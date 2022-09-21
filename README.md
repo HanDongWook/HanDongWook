@@ -20,12 +20,6 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </div><br><br>
 
-<div>Tools</div><br>
-<div>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div><br><br>
-
 WEBSITES
   * [Naver Cafe](https://cafe.naver.com/hdongwook?iframe_url=/MyCafeIntro.nhn%3Fclubid=30189250)  
   * [solved.ac](https://solved.ac/profile/jja9312)   
