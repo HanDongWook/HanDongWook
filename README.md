@@ -23,5 +23,4 @@
 WEBSITES
   * [Naver Cafe](https://cafe.naver.com/hdongwook?iframe_url=/MyCafeIntro.nhn%3Fclubid=30189250)  
   * [solved.ac](https://solved.ac/profile/jja9312)   
-  * [Linkedin](www.linkedin.com/in/dong-wook-han-2013a5180)  
   * [Tistory](https://handongwook.tistory.com/)  
