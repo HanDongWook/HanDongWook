@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=plastic"> 
   <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic"> 
   <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=plastic"> 
-  <img src="https://img.shields.io/badge/-SIP/RCS-4FC08D.svg?logo=SIP/RCS&style=plastic">
 </div>
 
 #### OPERATION SYSTEM
