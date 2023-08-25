@@ -18,13 +18,17 @@
   <img src="https://img.shields.io/badge/C++-00599C.svg?logo=C%2B%2B&style=plastic">
   <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
   <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic">
+  <img src="https://img.shields.io/badge/Swift-F05138.svg?logo=Swift&logoColor=white&style=plastic">
 </div>
 
 #### PLATFORMS
 <div>
   <img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=plastic"> 
-  <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic"> 
+  <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=plastic"> 
+  <img src="https://img.shields.io/badge/github-181717.svg?style=plastic&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-02303A.svg?style=plastic&logo=gradle&logoColor=white">
+  <img src="https://img.shields.io/badge/-iOS-000000.svg?&style=plastic&logo=Apple">
 </div>
 
 #### OPERATION SYSTEM
