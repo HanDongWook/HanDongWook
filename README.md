@@ -2,8 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jja9312)](https://solved.ac/jja9312/)
 
-#### E-MAIL & LINKEDIN
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=plastic&link=https://www.linkedin.com/in/dong-wook-han-2013a5180/)](https://www.linkedin.com/in/dong-wook-han-2013a5180/) 
+#### E-MAIL
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=plastic&link=mailto:jja9312345@gmail.com)](mailto:jja9312345@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&style=plastic&logoColor=white&link=mailto:jja9312@naver.com)](mailto:jja9312@naver.com)
 
@@ -24,10 +23,6 @@
 #### PLATFORMS
 <div>
   <img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=plastic"> 
-  <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=plastic"> 
-  <img src="https://img.shields.io/badge/github-181717.svg?style=plastic&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/gradle-02303A.svg?style=plastic&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/-iOS-000000.svg?&style=plastic&logo=Apple">
 </div>
 
