@@ -1,7 +1,5 @@
 # 한동욱(HanDongWook)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jja9312)](https://solved.ac/jja9312/)
-
 #### E-MAIL
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=plastic&link=mailto:jja9312345@gmail.com)](mailto:jja9312345@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&style=plastic&logoColor=white&link=mailto:jja9312@naver.com)](mailto:jja9312@naver.com)
