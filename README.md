@@ -24,6 +24,7 @@
 <div>
   <img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=plastic"> 
   <img src="https://img.shields.io/badge/-iOS-000000.svg?&style=plastic&logo=Apple">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows">
 </div>
 
 #### OPERATION SYSTEM
