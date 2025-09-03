@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/C++-00599C.svg?logo=C%2B%2B&style=plastic">
   <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
   <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic">
+  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=plastic">
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=plastic">   <img src="https://img.shields.io/badge/Dart-0175C2?&logo=dart&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/Swift-F05138.svg?logo=Swift&logoColor=white&style=plastic">
 </div>
 
@@ -24,6 +26,8 @@
 <div>
   <img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=plastic"> 
   <img src="https://img.shields.io/badge/-iOS-000000.svg?&style=plastic&logo=Apple">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows">
 </div>
 
