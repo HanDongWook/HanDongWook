@@ -1,6 +1,8 @@
 # 한동욱(HanDongWook)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jja9312)](https://solved.ac/jja9312/)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanDongWook&layout=compact&theme=light" alt="Top Languages">
+</div>
 
 #### E-MAIL
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=plastic&link=mailto:jja9312345@gmail.com)](mailto:jja9312345@gmail.com)
@@ -38,6 +40,4 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanDongWook&layout=compact&theme=light" alt="Top Languages">
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jja9312)](https://solved.ac/jja9312/)
