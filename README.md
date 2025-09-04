@@ -8,7 +8,7 @@
 #### WEBSITES
 [![Naver Badge](https://img.shields.io/badge/Archive-03C75A?style=flat-square&logo=Naver&style=plastic&logoColor=white&link=https://cafe.naver.com/hdongwook?iframe_url=/MyCafeIntro.nhn%3Fclubid=30189250/)](https://cafe.naver.com/hdongwook?iframe_url=/MyCafeIntro.nhn%3Fclubid=30189250)
 [![Tistory](http://img.shields.io/badge/-Tistory-f05d49?style=flat-square&logo=tistory&style=plastic&link=https://handongwook.tistory.com/)](https://handongwook.tistory.com/)
-
+[![LeetCode](http://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&style=plastic&link=https://leetcode.com/u/jja9312345/)](https://leetcode.com/u/jja9312345/)
 
 #### LANGUAGES
 <div>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows">
 </div>
 
-#### OPERATION SYSTEM
+#### OS
 <div>
   <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black"> 
 </div>
