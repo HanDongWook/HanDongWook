@@ -35,3 +35,10 @@
 <div>
   <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black"> 
 </div>
+
+<br></br>
+
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanDongWook&layout=compact)](https://github.com/HanDongWook/github-readme-stats)
+</div>
+
