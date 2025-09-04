@@ -1,13 +1,14 @@
 # 한동욱(HanDongWook)
 
 #### E-MAIL
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=plastic&link=mailto:jja9312345@gmail.com)](mailto:jja9312345@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335.svg?logo=gmail&style=plastic&link=mailto:jja9312345@gmail.com)](mailto:jja9312345@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&style=plastic&logoColor=white&link=mailto:jja9312@naver.com)](mailto:jja9312@naver.com)
 
 
 #### WEBSITES
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&style=plastic&logoColor=white&link=https://cafe.naver.com/hdongwook?iframe_url=/MyCafeIntro.nhn%3Fclubid=30189250/)](https://cafe.naver.com/hdongwook?iframe_url=/MyCafeIntro.nhn%3Fclubid=30189250)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&style=plastic&link=https://handongwook.tistory.com/)](https://handongwook.tistory.com/)
+[![Naver Badge](https://img.shields.io/badge/Archive-03C75A?style=flat-square&logo=Naver&style=plastic&logoColor=white&link=https://cafe.naver.com/hdongwook?iframe_url=/MyCafeIntro.nhn%3Fclubid=30189250/)](https://cafe.naver.com/hdongwook?iframe_url=/MyCafeIntro.nhn%3Fclubid=30189250)
+[![Tistory](http://img.shields.io/badge/-Tistory-f05d49?style=flat-square&logo=tistory&style=plastic&link=https://handongwook.tistory.com/)](https://handongwook.tistory.com/)
+
 
 #### LANGUAGES
 <div>
