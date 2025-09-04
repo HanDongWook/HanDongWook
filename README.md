@@ -20,7 +20,7 @@
 </div>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanDongWook&layout=compact&theme=light" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanDongWook&hide=html,cmake,css&layout=compact&theme=light" alt="Top Languages">
 </div>
 
 #### PLATFORMS
