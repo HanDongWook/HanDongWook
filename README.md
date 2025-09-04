@@ -39,5 +39,5 @@
 <br>
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanDongWook&layout=compact)](https://github.com/HanDongWook/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanDongWook&layout=compact&theme=light" alt="Top Languages">
 </div>
